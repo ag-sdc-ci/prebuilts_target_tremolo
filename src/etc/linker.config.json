@@ -1,0 +1,16 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libvorbisidec-x86_64-v2.so.so",
+		    "libdummy_binary_libvorbisidec.so.so",
+		    "libdummy_tremolo-x86_64-v2.so",
+		    "libdummy_tremolo.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "liblog.so",
+		    "libm.so"
+	],
+	"visible": true
+}
